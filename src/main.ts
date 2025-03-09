@@ -2,12 +2,15 @@
 import express, { Express, Request, Response } from "express";
 import dotenv from "dotenv";
 import bodyParser from "body-parser";
+import cors from "cors";
+
 dotenv.config();
-
-
 
 const app: Express = express();
 const port = process.env.PORT || 3000;
+
+// Cors
+app.use(cors())
 
 // parse application/x-www-form-urlencoded
 app.use(bodyParser.urlencoded({ extended: false }))
