@@ -6,6 +6,7 @@ We are excited to see your codes become part of TritonDashboard's backbones!
 
 1. You must be an UCSD (University of California, San Diego) student, alumni, faculty, or associate.
 2. You must be comfortable writing well documented, clear code.
+3. **ONLY** use the current **DEVELOPMENT** branch to make edits. This is to protect the main branch from untested code.
 
 Please note we have a code of conduct, please follow it in all your interactions with the project.
 
