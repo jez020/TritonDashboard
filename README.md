@@ -13,7 +13,7 @@ A useful tool aimed to provide UCSD students with necessary daily actions and in
 ## Contributing  
 Contributions are always welcome!  
 
-See `contributing.md` for ways to get started.  
+See `CONTRIBUTING.md` for ways to get started.  
 
 Please adhere to this project's `code of conduct`.  
 ## Installation
