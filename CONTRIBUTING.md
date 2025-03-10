@@ -6,16 +6,18 @@ We are excited to see your codes become part of TritonDashboard's backbones!
 
 1. You must be an UCSD (University of California, San Diego) student, alumni, faculty, or associate.
 2. You must be comfortable writing well documented, clear code.
+3. **ONLY** use the current **DEVELOPMENT** branch to make edits. This is to protect the main branch from untested code.
 
 Please note we have a code of conduct, please follow it in all your interactions with the project.
 
 ## Pull Request Process
 
 1. Ensure any install or build dependencies are removed before the end of the layer when doing a 
-   build.
-2. Complete all the fields in the pull request screen. They are required unless otherwise stated.
-3. Increase the version numbers in any examples files and the README.md to the new version that this
-   Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/).
+  build.
+2. Increase the version numbers in any examples files and the README.md to the new version that this
+  Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/).
+3. Copy the content of [this file](https://github.com/jez020/TritonDashboard/blob/main/.github/PULL_REQUEST_TEMPLATE/pull_request_template.md), 
+  if not already present when you are filling out a pull request form.
 4. Pull Requests can only be merged by a select few members of the team to ensure security.
 
 ## Code of Conduct
