@@ -1,7 +1,7 @@
 {
-  "name": "node-typescript-boilerplate",
+  "name": "triton-dash",
   "version": "0.0.0",
-  "description": "Minimalistic boilerplate to quick-start Node.js development in TypeScript.",
+  "description": "A useful tool aimed to provide UCSD students with necessary daily actions and information.",
   "type": "module",
   "engines": {
     "node": ">= 22.11 < 23"
@@ -37,8 +37,8 @@
     "prettier:check": "prettier \"{src,__{tests}__}/**/*.{ts,mts}\" --config .prettierrc --check",
     "test:watch": "vitest unit"
   },
-  "author": "Jakub Synowiec <jsynowiec@users.noreply.github.com>",
-  "license": "Apache-2.0",
+  "author": "Jerry Zhang <jez020@ucsd.edu>",
+  "license": "MIT",
   "dependencies": {
     "@types/body-parser": "^1.19.5",
     "body-parser": "^1.20.3",
